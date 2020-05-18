@@ -1,0 +1,35 @@
+File:   c2380.dds
+Format: BC7_UNORM
+Size:   1024x1024
+
+File:   c2380_n.dds
+Format: BC5_UNORM
+Size:   1024x1024
+
+File:   c2380_s.dds
+Format: DXT1
+Size:   1024x1024
+
+File:   c2380_WP_A_0220.dds
+Format: BC7_UNORM
+Size:   1024x256
+
+File:   c2380_WP_A_0220_n.dds
+Format: BC5_UNORM
+Size:   1024x256
+
+File:   c2380_WP_A_0220_s.dds
+Format: DXT1
+Size:   1024x256
+
+File:   c2380_WP_A_1510.dds
+Format: DXT1
+Size:   512x512
+
+File:   c2380_WP_A_1510_n.dds
+Format: BC5_UNORM
+Size:   512x512
+
+File:   c2380_WP_A_1510_s.dds
+Format: DXT1
+Size:   512x512
